@@ -1,0 +1,15 @@
+{
+  "name": "manganelo",
+  "version": "1.0.3",
+  "description": "A simple npm package for scraping manganelo.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "qs": "^6.9.4"
+  }
+}
